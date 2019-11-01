@@ -1,0 +1,58 @@
+##
+## A lovers' empbrace
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+-:.                `-:.                             
+                             -hNh:          `omNo`                              
+                               yMM/         dMM-                                
+                               sMMy        `MMM.                                
+                             .sMMM/         dMMm/                               
+                          `/yNMMMs          -NMMMdo-                            
+                      `:ohNMMMMm+`           -yNMMMNmy/.                        
+                     -dNMMMMMm+`               -yNMMMMMNs`                      
+                    `mMMMMMm/`                   -yMMMMMMo                      
+                    /MMMMMM-                       yMMMMMm                      
+                    /MMMMMM.                       yMMMMMm                      
+                    .NMMMMMm:                    `sMMMMMMy                      
+                     sMMMMMMNy-     ``..```    `/dMMMMMMN.                      
+                     `hMMMMMMMNs:+yddmmmmmdhs//dMMMMMMMM/                       
+                      .dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo                        
+                       .hMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+                         
+                        `yMMMMMMMMMMMMMMMMMMMMMMMMMMN:                          
+                         `mMMMMMMMMMMMMMMMMMMMMMMMMM+                           
+                          +MMMMMMMMMMMMMMMMMMMMMMMMN`                           
+                          `MMMMMMNMMMMMMMMMMMNMMMMMy                            
+                           dMMMN/-odNMMMMNmy/-yMMMM:                            
+                           oMMM:    ./ydo:`    hMMN`                            
+                           -MMh                -MMh                             
+                            sM/                 dN-                             
+                             o`                 ::                              
+                                                                                
+              ./+/:`                                        .:+/-`              
+    `:o+++++ohNMMMMNdo.                                 `:ymMMMMMmso++++++-     
+      .oyhhy+-:ohNMMMMNh/                             .omMMMMMmy+-:ohdhy/`      
+               .:+dMMMMMMd/         +ydhdhs-        `sNMMMMMNy/-`               
+           `/ymNNMMMMMMMMMMd:    s+`-ymNNd+`.h-   `+mMMMMMMMMMMNNds-            
+          -dMMMMMMMMMMMMMMMMNy. :MMd/``.``.omMd` :dMMMMMMMMMMMMMMMMNy`          
+          dMmyo++oshNMMMMMMMN/` dMMMMmhsydNMMMM+ -sMMMMMMMMdyo+++shNMo          
+         `d/`.-:/oymNMMMMMMMMh. oNMMMMMMMMMMMMm. /mMMMMMMMMNdyo/-.`.sy          
+          .:hmNMMMMMMMMMMMMMMMm: -sdmNMMMMNdh+``oNMMMMMMMMMMMMMMNNmo..          
+         .yNMMMMMMMMMMMMMMMMMMMN/  `..-:--.`  `yMMMMMMMMMMMMMMMMMMMMm+          
+        -dMMMMMMMMMMMMMMMMMMMMMMNo           `hMMMMMMMMMMMMMMMMMMMMMMMs`        
+       -mMMMMMMMMMMMMMMMMMMMMMMMMMo         .dMMMMMMMMMMMMMMMMMMMMMMMMMy`       
+      .mMMMMMMMMMMMMMMMMMMMMMMMMMMMo       `dMMMMMMMMMMMMMMMMMMMMMMMMMMMy       
+     `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+     `hMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+      
+     sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:    sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:     
+    :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm`  /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm`    
+   `mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo `mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo    
+   +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN`/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.   
+  -NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMomMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh`  
+ :NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy` 
++NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd.
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+EOC

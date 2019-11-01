@@ -1,0 +1,50 @@
+##
+## A lovers' empbrace
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+                                                                            .s`           
+                                                                       :+  -mm`           
+                                                                      :N/ :mNs            
+                                                                     /Nm. /NNd.           
+                                                                     sNN/ `hNNNo`         
+                                                                     oNMm. /NMNMd.        
+                                                                     oNMNm.+MMMNNm.       
+                                                                     yMMMNdmMMMNMNh       
+                                                                    -NNMMNMMMMMMMNN.      
+                                                                   .hMMMMMMMMMMMMNN-      
+                                                                 `:mMMMMMMMMMMMMMNN.      
+                                    `.`                      `:+sdMMMMMMMMMMMMMMMNh       
+                               `.+hNMMNh-                 `/hNMMMMMMMMMMMMMMMMMMNN-       
+                     `::/+oss:-oMMMMMMMM+                 yMNMMMMMMMMMMMMMMMMMMMN+        
+                    .mMMMMMMo .NMMMMMMMm`                :NMMMMMMMMMMMMMMMMMMMMNo```      
+                   .mMMMMMMM/ yMMMMMMMm.                 /NMMMMMMMMMMMMMMMMMMMNo/yd/oo/.  
+                  `dMMMMMMMM:-NMMMMMMMM-                 `mMMMMMMMMMMMMMMMMMMMmNMMNhsoo+/.
+                 `hMMMMMMMMM/sMMMMMMMMN:                .hMMMMMMMMMMMMMMMMMMMMMMMMNmyo:.` 
+                 sMMMMMMMMMMhmMMMMMMMMM/`              .dMMMMMMMMMMMMMMMMMMMMMMNdo-       
+                :MMMMMMMMMMMMMMMMMMMMMMMm/             .oNMMMMMMMMMMMMMMMMMMMNs-`         
+               `mMMMMMMMMMMMMMMMMMMMMMMMd`              .mMMMMMMMMMMMMMMNmyoo-`           
+               +MMMMMMMMMMMMMMMMMMMMMMMMh`              `-NMMMMMMMMMMMMMNNNNNNmhs/.       
+              `mMdNMMMMMMMMMMMMMMMMMMMMMh`              .hNMmhyNMMMMMMMMMMMMMMMMNMNh/`    
+              /MMsmMMMMMMMMMMMMMMm-:+ooo/               `.-.``sNMMMMMMMMMMMMMNNy/.`.+y`   
+              yMN/mMNmMMMMMMMMMMMo                          `yMMMMMMMMMMMMMMNo`           
+             :NMs+MhhMMMMMMMMMMMM/                          :NMMMMMMMMMMMMMd.             
+            -mNoodsmMMMMMMMMMMMMMs                          oMMMMMMMMMMMMMN:              
+          `/Ny+hyhNMMMMMMMMMMMMMMm.                         /MMMMMMMMMMMMMMd:`            
+         .hh/hdomMMMMMMMMMMMMMMMMMh`                        `dMMMMMMMMMMMMMMMmo:`         
+       `oNo+NssMMMMMMMMhNMMMMMMMMMMy`                        +MMMMMMMMMMMMMMMMMMmy.       
+     `+mMy:NsoMMMMMMNyodMMMMMMMMMMMMd:                     `oNMMMMMMMMMMMMMMMMMMNNo       
+    :dMMM/dN:NMMMMhosmMMMMMMMMMMMMMMMMs.                   /MMMMMMMMMMMNho/-.-:::-`       
+   :NMMMM+mm:MMMm/hNmNMy//+smMMMMMMMMMMm/                  oMMMMMMMMMm+.                  
+   +MMMMMdyN-NMMyoNhmohy     .+dMMMMMMMMN:                 /MMMMMMMm/`                    
+   `mMMMMMoNy:dMNsssmsoN.       -omMMMMMN:                 .NMMMMNo`                      
+    -mMMMM/NMd+oyddy+oNMy          -shds-                  `-hdho.                        
+   /yhhmMM/NMMMMmdddNMMMN-                                                                
+`sNN+yNymhsMMMMMMMMMMMMMM/                                                                
+.MMMh+osshMMMMMMdNMMMMMMM+                                                                
+`mMMMMMMMMMMNdhhNMMMMMMMm.                                                                
+ -mMMNmddhhyhmMMMMMMMMMd.                                                                 
+  `sNMMMMMMMMMMMNNNmhs:                                                                   
+    `-/++sdNMmho-``
+EOC

@@ -1,0 +1,37 @@
+##
+## A lovers' empbrace
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+                        .+                        
+                       :NMh`                      
+                     `sMMMMm-                     
+                    -dMMMMMMN+                    
+                  `oMMMMMMMMMMh.                  
+                 :mMMMMMMMMMMMMN+                 
+               .yMMMMMMMMMMMMMMMMd:               
+             `oNMMMMMMMMMMMMMMMMMMMh-             
+            +NMMMMMMMMMMMMMMMMMMMMMMMy-           
+         `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMy-         
+       `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh:       
+      /mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh.     
+    .hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+    
+   /NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`  
+  +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd` 
+ +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy 
+.NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-
+sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo
+hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs
+sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/
+.NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh 
+ :NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy` 
+  `sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh:   
+    `/ymMMMMMMMMMMMNds/mMMMh/sdNMMMMMMMMMmh+.     
+        `-/+++++/-.   oMMMMN-   `-:::::.`         
+                     -NMMMMMh                     
+                    `mMMMMMMMo                    
+                   `hMMMMMMMMM+                   
+                  .dMMMMMMMMMMMy.                 
+                 :mmmmmmmmmmmmmmm/              
+EOC

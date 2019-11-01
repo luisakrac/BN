@@ -1,0 +1,57 @@
+##
+## A lovers' empbrace
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+                 `::-` .:`              
+               .yMMMMNdMmmmy`           
+              -NMMMMMMMMMdhNm+`         
+              oNMMMMMMMMMs`:MMm+        
+            .oNMMMMMMMMMMN. :NMMm:      
+           :sNMMMMMMMMMMMM+  -NMMMy     
+            yNmMMMMMMMMMMM+shNMMMMN.    
+            .ymMMMMMMMMMMMMMMMmho:`     
+    y-yho    `-MMMMMMMMMMMMs:`          
+    sdMMMhs/  +NMMMMMMMMMMMs:`          
+    +o./+oNM/ +MMMMMMMMMMMMMMNds:`      
+    ds    sMN.ymMMMMMMMMMMMMMMMMMM:     
+   oMN.   :MMm.mMMMMMMMMMMMMMMMMMN.     
+  +MMMN/`  mMMNMMMhmMMMMMMMMMMMNs.      
+ /hdMMMho- +MMMMMM-.dMMMMMMMMMMy        
+.+::``-+o- `mMMMMd  `dMMMMMMMMMh        
+            :MMMM-   .NMMMMMMMM+        
+             :yy-     dMMMMMMMM-        
+                    :dMMMMMMMMM.        
+                  -dMMMMMMMMMMN`        
+                 :NMMMMMMMMMMM/         
+                `NMMMMMMMMMMMy          
+                .MMMMMMMMMMMMo          
+                 yMMMMMMMMMMM/          
+                  +NMMMMMMMMM/          
+                   /MMMMMMMMMd          
+                   sMMMMMMMMMM/         
+                   mMMMMMMMMMMd         
+                  `MMMMMMMMMMMM:        
+                  -MMMMMMMMMMMMd        
+                  :MMMMMMMMMMMMM-       
+                  :MMMMMMydMMMMMs       
+                  oMMMMMN`-MMMMMd       
+              -ohNMMMMMM/ .MMMMMo       
+            :dMMMMMMMNh:  yMMMMM.       
+          `yMMMMMMMh/`    NMMMMM`       
+         `hMMMMMNs.       mMMMMM`       
+        -mMMMMNo`         oMMMMM`       
+       +NMMMm+`            hMMMM:       
+     :dMMMNo`              `mMMMs       
+  -smMMMMh`                 -MMMN`      
+ +MMMMMMy                    NMMM+      
+ oMMMMMN`                   +MMMMm`     
+ odsMMMh                   :MMMMMMs     
+ s.:MMMm/`                 `hMMMMMN-    
+`o :MMMMMN-                 `d+yMMMms+- 
+`` `hNMMd/                   -o hMMMMMm`
+      ``                      o .mMMNh. 
+                                  ``    
+
+EOC
